@@ -1,6 +1,6 @@
 # Citra Shaders
 SMART FXAA is a modified version of FXAA
-and more Optimised and we working on it to improve 
+and more Optimised and we are working on it to improve 
 graphics and shaders with more optimisation
 so stay tooned for letest updates related SMART FXAA
 or other Future citra shaders plans but for now
